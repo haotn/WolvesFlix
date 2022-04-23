@@ -1,1 +1,2 @@
 # WolvesFlix
+WolvesFlix là sản phẩm cuối môn Java 4 của tôi, những chức năng cơ bản bao gồm quản lý truy cập, quản lý người dùng, quản lý video đăng trên trang web, thao tác với video (xem, thích, chia sẻ qua email), các thống kê liên quan tới người dùng và video. Trong sản phẩm này, tôi phát triển chủ yếu ở phần back-end và front-end là template có sẵn được chỉnh sửa lại để phù hợp với nhu cầu sản phẩm.
