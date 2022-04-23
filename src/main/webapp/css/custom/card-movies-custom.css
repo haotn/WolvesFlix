@@ -1,0 +1,47 @@
+.card__category {
+	height: 20px;
+}
+
+.card__action {
+	margin-top: 20px;
+	width: 100%;
+	display: flex;
+	justify-content: end;
+}
+
+.card__action i.btn__like {
+	margin-left: 100px;
+	transition: linear 0.2;
+	opacity: 0.85;
+	transition: linear 0.2;
+	border-radius: 50%;
+	box-shadow: 0 0 20px 0 rgb(255 88 96/ 50%);
+}
+
+.card__action i.liked {
+	background: #ff5860 !important;
+	color: red !important;
+}
+
+.card__action i.not__yet-like {
+	background: white;
+	color: red;
+}
+
+.card__action i.btn__like:hover {
+	opacity: 1;
+}
+
+.card__action i.btn__share:hover {
+	opacity: 1;
+}
+
+.card__action i.btn__share {
+	background-image: linear-gradient(90deg, #5f77ff 0%, #58deff 100%);
+	box-shadow: 0 0 20px 0 rgba(88 230 255/ 50%);
+	margin-left: 20px;
+	transition: linear 0.2;
+	border-radius: 50%;
+	background: white;
+	opacity: 0.85;
+}

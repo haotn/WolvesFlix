@@ -1,0 +1,30 @@
+@charset "ISO-8859-1";
+
+.invalid__feedback {
+	transition: linear 0.3s;
+	margin-top: -15px;
+	margin-bottom: 20px;
+	margin-left: 20px;
+	font-style: italic;
+	font-size: 13px;
+	color: red !important;
+	font-family: inherit;
+	font-size: 13px;
+}
+
+.valid__feedback {
+	transition: linear 0.3s;
+	font-size: 13px;
+	color: green;
+	font-family: sans-serif;
+}
+
+.is__valid {
+	transition: linear 0.3s;
+	box-shadow: 0 0 10px 0 green;
+}
+
+.is__invalid {
+	transition: linear 0.3s;
+	box-shadow: 0 0 10px 0 red;
+}

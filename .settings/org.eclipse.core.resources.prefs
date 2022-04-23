@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/wolvesflix/data/Data.java=UTF-8
+encoding//src/main/java/com/wolvesflix/data/DataGenerator.java=UTF-8
+encoding//src/main/java/com/wolvesflix/data/GenreHelper.java=UTF-8
+encoding//src/main/java/com/wolvesflix/data/VideoHelper.java=UTF-8
+encoding//src/main/java/com/wolvesflix/demo/EditItemServlet.java=UTF-8
+encoding//src/main/java/com/wolvesflix/demo/HomeServlet.java=UTF-8
+encoding//src/main/java/com/wolvesflix/demo/UserHandle.java=UTF-8
+encoding//src/main/java/com/wolvesflix/filter/AuthFilter.java=UTF-8
+encoding//src/main/java/com/wolvesflix/helper/FormValidator.java=UTF-8
+encoding//src/main/java/com/wolvesflix/helper/SendMail.java=UTF-8
+encoding//src/main/java/com/wolvesflix/helper/ServletHelper.java=UTF-8
+encoding//src/main/java/com/wolvesflix/servlet/access/SigninServlet.java=UTF-8
+encoding//src/main/java/com/wolvesflix/servlet/access/SignupServlet.java=UTF-8
+encoding//src/main/java/com/wolvesflix/servlet/user/ShareServlet.java=UTF-8
+encoding/src=UTF-8
